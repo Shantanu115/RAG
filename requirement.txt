@@ -1,0 +1,8 @@
+flask
+faiss-cpu
+sentence-transformers
+langchain
+langchain-openai
+openai
+tiktoken
+requests
