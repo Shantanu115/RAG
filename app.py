@@ -13,7 +13,7 @@ from langchain.schema import HumanMessage
 
 DOCS_FOLDER =os.path.join(os.path.dirname(__file__), "RAG_assignment")
 CHUNK_SIZE = 100
-MODEL_NAME = "all-MiniLM-L6-v2"
+MODEL_NAME = "sentence-transformers/paraphrase-MiniLM-L3-v2"
 TOP_K = 3
 
 def load_documents(folder_path):
@@ -37,7 +37,13 @@ class VectorIndex:
                 self.chunks.append(chunk)
                 self.chunk_origins.append(fname)
         self.model = SentenceTransformer(MODEL_NAME)
-        embeddings = self.model.encode(self.chunks, convert_to_numpy=True)
+        embeddings = self.model.encode(
+            self.chunks,
+            convert_to_numpy=True,
+            batch_size=16,
+            show_progress_bar=False
+        )
+
         self.index = faiss.IndexFlatL2(embeddings.shape[1])
         self.index.add(embeddings)
 
@@ -153,6 +159,8 @@ def index():
         branch, logs, snippets, result = agent.handle_query(query)
         return render_template_string(HTML_TEMPLATE, query=query, branch=branch, logs=logs, snippets=snippets, result=result)
     return render_template_string(HTML_TEMPLATE)
+import psutil
+
 
 if __name__ == "__main__":
     app.run(debug=True)
