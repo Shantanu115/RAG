@@ -1,0 +1,8 @@
+Samsung Galaxy S23 Ultra - Specifications
+- Display: 6.8" Dynamic AMOLED 2X, 3088×1440, 1–120Hz
+- Processor: Snapdragon 8 Gen 2
+- Rear Cameras: 200MP wide, 12MP ultra-wide, dual 10MP telephotos
+- Battery: 5,000 mAh, 45W wired charging, 15W wireless
+- Memory: 12GB RAM, 256/512GB/1TB storage
+- Connectivity: 5G, Wi‑Fi 6E, Bluetooth 5.3, UWB
+- Dimensions: 163.4×78.1×8.9 mm, Weight: 233 g

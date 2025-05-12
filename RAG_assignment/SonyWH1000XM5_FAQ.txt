@@ -1,0 +1,15 @@
+Sony WH-1000XM5 - Frequently Asked Questions
+- How do I pair the headphones via Bluetooth?
+  Pairing mode is entered by holding the power button for 7 seconds until indicator flashes.
+
+- How can I update firmware?
+  Use the Sony Headphones Connect app and follow the firmware update instructions.
+
+- What’s the function of the NC Optimizer?
+  Automatic calibration of noise cancellation based on ear shape and fit.
+
+- How do I replace ear pads?
+  Gently pull off old pads and align new ones to press into earcup slots.
+
+- Can I connect multiple devices?
+  Yes, using Multipoint Connection in the Bluetooth settings.

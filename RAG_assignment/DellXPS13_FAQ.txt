@@ -1,0 +1,15 @@
+Dell XPS 13 - Frequently Asked Questions
+Q1: How to run a diagnostic test?
+A1: Use Dell SupportAssist or pre-boot diagnostics via F12 menu.
+
+Q2: What are best practices for laptop maintenance?
+A2: Keep vents clear, update drivers regularly, and use a surge protector.
+
+Q3: How to reset BIOS settings?
+A3: Restart, press F2 to enter BIOS, then choose 'Load Defaults'.
+
+Q4: How to perform a hard reset?
+A4: Power off, disconnect power, hold power button for 15 seconds.
+
+Q5: How to update Dell drivers?
+A5: Download from Dell's support site or use SupportAssist.

@@ -1,0 +1,8 @@
+Tesla Model 3 - Specifications
+- Long Range Dual Motor All-Wheel Drive
+- Range (EPA est.): 346 miles
+- Acceleration: 0-60 mph in 4.2 seconds
+- Top Speed: 145 mph
+- Battery: Lithium-ion pack, 75 kWh
+- Dimensions: Length 184.8 in, Width 72.8 in, Height 56.8 in
+- Interior: Seating for 5 with 23.0 cu ft trunk

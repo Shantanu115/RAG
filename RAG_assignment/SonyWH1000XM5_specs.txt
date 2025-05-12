@@ -1,0 +1,8 @@
+Sony WH-1000XM5 - Specifications
+- Type: Closed, dynamic, over-ear
+- Driver Unit: 30 mm neodymium
+- Frequency Response (Active): 4 Hz–40,000 Hz
+- Noise Cancellation: HD Noise Cancelling Processor QN1
+- Battery Life: Up to 30 hours (NC on), Quick Charge 3.5 hours
+- Connectivity: Bluetooth 5.2, LDAC, Multipoint
+- Weight: Approx. 8.82 oz

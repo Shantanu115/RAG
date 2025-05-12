@@ -1,0 +1,15 @@
+Samsung Galaxy S23 Ultra - Frequently Asked Questions
+- How to transfer data from an iPhone?
+  Use Samsung Smart Switch app via cable or wireless.
+
+- How to use S Pen features?
+  Air Actions can be accessed by holding the S Pen remote button.
+
+- How to enable Expert RAW camera mode?
+  Open Camera app, swipe to 'More', then select 'Expert RAW'.
+
+- What battery optimization settings can I use?
+  Go to Settings > Battery and device care > Battery > More battery settings.
+
+- How to secure my device with Samsung Knox?
+  Knox is enabled by default; configure under Settings > Biometrics and security.

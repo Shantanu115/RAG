@@ -1,0 +1,15 @@
+iPhone 15 Pro Max - Frequently Asked Questions
+Q1: Where is the SIM tray located?
+A1: On the left side, at the bottom below the volume buttons.
+
+Q2: How do I use Dynamic Island?
+A2: Dynamic Island appears at the top display cutout and adapts to notifications and Live Activities.
+
+Q3: How do I enable Always-On display?
+A3: Go to Settings > Display & Brightness and toggle on Always On display.
+
+Q4: What is Action Button?
+A4: The Action Button replaces the mute switch; you can customize it for various functions under Settings > Action Button.
+
+Q5: How do I access the LiDAR scanner features?
+A5: Apps like Measure and augmented reality experiences use the LiDAR scanner automatically when launched.
