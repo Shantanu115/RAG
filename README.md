@@ -74,7 +74,7 @@ os.environ["OPENROUTER_API_KEY"] = "your_api_key_here"
 
 python app.py
 
-Then open your browser and go to: http://localhost:10000
+Then open your browser and go to: http://localhost:5000
 
  Notes
 
